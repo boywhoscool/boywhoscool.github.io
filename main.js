@@ -1,1 +1,1 @@
-alert('This website is goated')
+alert('This website is goated!!!')
